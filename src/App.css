@@ -101,7 +101,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: calc(16px + var(--safe-top)) 16px calc(16px + var(--safe-bottom));
+  padding: 1px;
   width: 100%;
   min-width: 0;
   position: relative;
